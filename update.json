@@ -1,11 +1,11 @@
 {
   "slug": "schiwyair-wartung",
-  "version": "0.5.0",
-  "download_url": "https://raw.githubusercontent.com/SchiwyairGmbH/schiwyair-wartung-plugin/main/releases/schiwyair-wartung-0.5.0.zip",
-  "sha256": "c38f98c618d6f2650085f70fd30244d9365635591fed51411a1027fd5bc4ea67",
+  "version": "0.5.1",
+  "download_url": "https://raw.githubusercontent.com/SchiwyairGmbH/schiwyair-wartung-plugin/main/releases/schiwyair-wartung-0.5.1.zip",
+  "sha256": "84e8a2515e1656046a98052f046a98240bdac8f27d4fd71153694e79af499f17",
   "requires": "6.0",
   "requires_php": "7.4",
   "tested": "7.1",
   "released_at": "2026-09-30",
-  "signature": "/jRTGPEhlp2VLsUHbfr89ws9amaLYjb8dx0pYhJ2qE/D8KqD+7auw7DeVFGcLRomVkGyimOeSUDzgEysG2+3Bw=="
+  "signature": "pDeObyoWWthwDZ6zewfnaTF7qxVf8+eF7r/CScRfPl9T8ej7eJK1Vb5v1FHsg1E+GPNl7jEGKjtux41Wa8rODg=="
 }
