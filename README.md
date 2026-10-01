@@ -9,4 +9,4 @@ Das Plugin verbindet eine WordPress-Website mit der Wartungszentrale der Agentur
 
 Installierte Plugins prüfen die Unterschrift und die Prüfsumme und installieren nur Pakete der Schiwyair GmbH.
 
-Aktuelle Version: **0.12.0**
+Aktuelle Version: **0.13.0**
